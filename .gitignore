@@ -5,14 +5,14 @@
 /ceres-backend/env
 /node_modules
 /ceres-frontend/node_modules
-/.pnp
-.pnp.js
-
+/ceres-frontend/.pnp
+/ceres-frontend/.pnp.js
+/ceres-frontend/yarn.lock
 # testing
 /coverage
 
 # production
-/build
+/ceres-frontend/build
 
 # misc
 .DS_Store
